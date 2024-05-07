@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sora1919
+- 👋 Hi, I’m Kaung Set Linn
 - 👀 I’m interested in Software and Web development.
 - 🌱 I’m currently learning PHP, Python, JavaScript.
 - 💞️ I’m looking to collaborate on ...
