@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaung Set Linn
 - 👀 I’m interested in Software and Web development.
-- 🌱 I’m currently learning PHP, Python, JavaScript.
+- 🌱 I’m currently learning JavaScript, React and Node.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
