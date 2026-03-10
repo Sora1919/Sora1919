@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Sora1919">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/kaung-set-linn-a51836309">LinkedIn</a> •
   <a href="mailto:kaungsetlinn01@gmail.com">Email</a>
 </p>
 
@@ -59,8 +59,8 @@ I’m especially interested in opportunities related to:
 ## 📫 Connect With Me
 
 - GitHub: [Sora1919](https://github.com/Sora1919)
-- LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- Email: [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
+- LinkedIn: [Kaung Set Linn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/kaung-set-linn-a51836309/))
+- Email: [kaungsetlinn01@gmail.com](mailto:kaungsetlinn01@gmail.com)
 
 ---
 
