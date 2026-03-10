@@ -59,7 +59,7 @@ I’m especially interested in opportunities related to:
 ## 📫 Connect With Me
 
 - GitHub: [Sora1919](https://github.com/Sora1919)
-- LinkedIn: [Kaung Set Linn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/kaung-set-linn-a51836309/))
+- LinkedIn: [Kaung Set Linn](https://www.linkedin.com/in/kaung-set-linn-a51836309/)
 - Email: [kaungsetlinn01@gmail.com](mailto:kaungsetlinn01@gmail.com)
 
 ---
