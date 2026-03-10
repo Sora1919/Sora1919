@@ -37,33 +37,8 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- Better project architecture and code organization
-- Backend development fundamentals
-- Clean UI implementation with modern frontend tools
-- Full-stack workflow and team collaboration practices
-
----
-
-## 💼 What I’m Looking For
-
-I’m especially interested in opportunities related to:
-
-- Frontend Development
-- Junior Full-Stack Development
-- Android Development
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: [Sora1919](https://github.com/Sora1919)
 - LinkedIn: [Kaung Set Linn](https://www.linkedin.com/in/kaung-set-linn-a51836309/)
 - Email: [kaungsetlinn01@gmail.com](mailto:kaungsetlinn01@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning ideas into real applications and improving step by step through hands-on building.
