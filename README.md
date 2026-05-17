@@ -32,7 +32,7 @@
 ## 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,kotlin,java,php,python,laravel,firebase,sqlite,mysql,postgres,mongodb,git,github,figma,vscode,webstorm,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,java,php,python,laravel,mysql,postgres,mongodb,git,github" />
 </p>
 
 ---
